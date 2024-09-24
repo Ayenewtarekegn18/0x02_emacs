@@ -78,7 +78,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
 # 📊 LeetCode Stats:
-[![Aser's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=aserhailu&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![Ayenew's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ayenew_tarekegn&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ayenewtarekegn18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
