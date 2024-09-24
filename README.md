@@ -1,7 +1,7 @@
 
 # Hi 👋🏻, 
 <h1 align="center"> 💫 This is <b> Ayenew Tarekegn </b> </br> </h1>
-<p align="center">Hi I am a software Engineer ⚡</p>
+<p align="center">Hi I am a Software Engineer ⚡</p>
 
 
 
@@ -33,6 +33,8 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Jest badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 
 
 # 💻 Learning:
@@ -79,6 +81,9 @@
 
 # 📊 LeetCode Stats:
 [![LeetCode badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ayenew_tarekegn/)
+
+# 📊 Codeforce Stats:
+[![Codeforces badge](https://img.shields.io/badge/Codeforces-%235A5AFF.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aye_tar)
 
 
 # 📊 GitHub Stats:
