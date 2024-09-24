@@ -78,7 +78,8 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
 # 📊 LeetCode Stats:
-[![Ayenew's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ayenew_tarekegn&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ayenew_tarekegn/)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ayenewtarekegn18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -88,7 +89,7 @@
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ayenewtarekegn18&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" 
 alt="GitHub Commits Graph" /></a>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asero13th&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayenewtarekegn18&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
  </a>
 
 ## 🏆 GitHub Trophies
